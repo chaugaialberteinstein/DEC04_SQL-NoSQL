@@ -1,0 +1,15 @@
+1. Crawl product data save in mongo
+- ID
+- Data 
+Connect Mongo
+
+2. Migrate MySQL
+Create database, table in MySQL 
+Connect mongo and mysql
+
+3. Cate/subcate- product amount
+save in txt file
+
+4. Statistics
+
+5. Element
