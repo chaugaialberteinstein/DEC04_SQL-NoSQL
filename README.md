@@ -1,4 +1,5 @@
-# DEC04_SQL-NoSQL1. Lấy **toàn bộ** sản phẩm đang hiển thị trên các danh mục của website tiki.vn. Dữ liệu lấy về sẽ lưu trong MongoDB
+# DEC04_SQL-NoSQL1.
+Lấy **toàn bộ** sản phẩm đang hiển thị trên các danh mục của website tiki.vn. Dữ liệu lấy về sẽ lưu trong MongoDB
 2. Tạo một bản sao lưu data gửi cho Coach để có thể Restore dữ liệu trên một hệ thống MongoDB khác
 3. Trích xuất các trường thông tin sau và lưu vào MySQL để cho team khác sử dụng:
     1. Product name: Tên sản phẩm 
